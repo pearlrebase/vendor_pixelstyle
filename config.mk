@@ -17,7 +17,6 @@ PRODUCT_PACKAGES += \
     AmbientPlayProvider \
     SoundPickerPrebuilt \
     WallpaperPickerGooglePrebuilt \
-    NexusLauncherPrebuilt \
     WellbeingPrebuilt \
     MarkupGoogle \
     WeatherClient
